@@ -1,0 +1,5 @@
+server:
+  ssl:
+    key-store: E:/3493824_lilinqi.com.pfx
+#    key-alias: tomcathttps
+    key-store-password: zrg3vOW0
