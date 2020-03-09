@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 /**
- * 测试叶：测试是否可以启动
+ * 测试页：测试是否可以启动
  */
 public class HomePage {
     @GetMapping("")
